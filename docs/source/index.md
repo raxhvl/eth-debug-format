@@ -8,4 +8,5 @@
 ./known-challenges.md
 ./schema.md
 ./format.md
+./layout.md
 ```
